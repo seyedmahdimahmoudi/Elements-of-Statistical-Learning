@@ -6,3 +6,7 @@ Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ajtulloch/elements-of-statistical-learning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/seyedmahdimahmoudi/elements-of-statistical-learning/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
